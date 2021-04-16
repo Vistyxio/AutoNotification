@@ -1,0 +1,2 @@
+# AutoNotification
+一个用来抓取网站新闻并推送到手机上的Python程序
