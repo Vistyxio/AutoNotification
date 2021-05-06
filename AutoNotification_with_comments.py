@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 #发送通知的函数
 def SendNotification(data):
     #在IFTTT中获取的链接
-    url = "https://maker.ifttt.com/trigger/someting_new/with/key/yaSwnP3mqVLAM1LKwhgBa"
+    url = "https://maker.ifttt.com/trigger/someting_new/with/key/*********************"
     
     #发送json格式数据
     headers = {
