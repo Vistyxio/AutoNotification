@@ -9,7 +9,7 @@ import re
 from bs4 import BeautifulSoup
 
 def SendNotification(data):
-    url = "https://maker.ifttt.com/trigger/someting_new/with/key/yaSwnP3mqVLAM1LKwhgBa"
+    url = "https://maker.ifttt.com/trigger/someting_new/with/key/*********************"
     
     headers = {
         'Content-Type': "application/json"
